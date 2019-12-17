@@ -1,0 +1,9 @@
+N             	        12	        13	        14	        15	        16
+SA_min_time   	     7.178s	     7.477s	     7.884s	     7.712s	     8.844s
+SA_max_time   	    10.157s	    12.529s	    11.736s	    14.206s	    14.290s
+aStar_min_time	     0.064s	     0.179s	     0.738s	     1.343s	     1.955s
+aStar_max_time	     8.159s	    22.352s	    94.452s	   510.468s	 48068.904s
+SA_avg_time   	     7.845s	     8.394s	     8.855s	     9.509s	    10.564s
+aStar_avg_time	     1.654s	     5.617s	    17.574s	    55.704s	   661.291s
+avg_delta_cost	     0.070c	     0.105c	     0.123c	     0.188c	     0.223c
+best_rate    	    40.000%	    30.000%	    15.000%	    13.000%	     3.000%
